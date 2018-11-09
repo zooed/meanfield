@@ -6,5 +6,6 @@ Battle game源代码：
 
 环境 MAgent 
 模型 ac.py base.py q_learning.py
-训练 main_
+训练 train_battle.py
+
 
